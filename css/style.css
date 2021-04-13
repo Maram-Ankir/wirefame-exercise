@@ -25,3 +25,48 @@ nav img{
     top: 19px;
     padding-left: 60px;
 }
+
+#section-1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    margin-top: 31px;
+}
+
+#section-2{
+    margin-left: 299px;
+    margin-top: 32px;
+}
+
+#section-2 img:nth-child(2){
+    margin-left:7px;
+    margin-right: 7px;
+
+}
+
+article {
+    width: 30%;
+    float: right;
+    margin-right: 243px;
+    margin-top: 29px;
+    font-weight: bold;
+    text-align: justify;
+    
+}
+
+#section-3 img{
+    margin-left: 298px;
+    margin-top: 29px;
+}
+
+span{
+    float: right;
+    margin-right: 550px;
+    background-color: black;
+    height: 36px;
+    width: 143px;
+    color: white;
+    margin-top: -61px;
+    text-align: center;
+    padding-top: 10px;
+}
