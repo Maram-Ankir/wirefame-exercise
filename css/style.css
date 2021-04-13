@@ -1,0 +1,27 @@
+nav ul {
+    position: relative;
+    margin-left: 297px;
+}
+nav ul li{
+    bottom: 54px;
+    display: inline-block;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li a{
+    
+    color: white;
+    margin-left: 96px;
+    text-decoration-line: none;
+    font-size: 22px;
+}
+
+nav{
+    background-color: gray;
+}
+nav img{
+    position: relative;
+    top: 19px;
+    padding-left: 60px;
+}
